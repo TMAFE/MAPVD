@@ -1,0 +1,23 @@
+# Notices
+
+Microsoft Actor Properties Viewer + Decompiler Prototype  
+Copyright (C) 2018-2026 TMAFE
+
+This prototype is part of TMAFE's Microsoft Actor and Microsoft Bob preservation research.
+
+This code represents an early .ACT file research prototype that helped lead to Frontier Actor and the eventual Universal Character Scripting Helper, with the .ACT format being studied by image analysis (and seeing the WMF image files), hex analysis (for WAV signatures), public information from the patent for the Microsoft Actor technology itself where we first learned about the Utopia Animation Editor, and checking other parts of the .ACT file for interesting details (such as the 1.0 / 2.0 signature).
+
+As this was a prototype and 2.0 .ACT files were analyzed more, the prototype is able to read the description of Microsoft Actor 2.0 files but not Microsoft Actor 1.0 files, though is still able to preview any WMFs and WAVs.
+
+Attribution should be preserved as:
+
+"Based on the Microsoft Actor Properties Viewer + Decompiler prototype by TMAFE"
+
+Related links:
+- TMAFE: https://tmafe.com
+- Agentpedia: https://agentpedia.tmafe.com
+- Forums: https://forums.tmafe.com
+
+Research articles:
+- ACT file format: https://agentpedia.tmafe.com/wiki/Actor_Character_Table_(file_format)
+- ACP file format: https://agentpedia.tmafe.com/wiki/Actor_Character_Preview_(file_format)
